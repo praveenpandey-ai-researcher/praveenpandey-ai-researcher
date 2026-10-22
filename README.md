@@ -231,11 +231,14 @@ Led the Agentic AI team building healthcare service agents. Managed cross-functi
 <a href="mailto:praveenpandey.ai@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/praveen-pandey-aiml-researcher/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL.com">
+<a href="https://researchbypraveen.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://praveen-pandey.praveenpandey-ai.workers.dev/blog/">
+  <img src="https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
 <br/><br/>
